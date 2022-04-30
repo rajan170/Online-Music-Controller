@@ -114,4 +114,5 @@ cython_debug/
 !.vscode/extensions.json 
 .history
 
+#Node Modules
 node_modules/
